@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "name": "linear",
+    "signature": {
+      "input_params": [
+        "x"
+      ],
+      "output_type": "float",
+      "param_names": [
+        "a",
+        "b"
+      ]
+    },
+    "description": "Линейная функция"
+  },
+  "code": "def linear(x, a, b): return a * x + b"
+}
