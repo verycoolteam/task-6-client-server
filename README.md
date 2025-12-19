@@ -39,7 +39,7 @@ source .venv/bin/activate
 
 ```bash
 pip install --upgrade pip
-pip install "fastapi" "uvicorn[standard]" "click" "pydantic"
+pip install -r requirements.txt
 ```
 
 ### 5. Запустите сервер
